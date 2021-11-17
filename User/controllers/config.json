@@ -1,0 +1,9 @@
+{
+    "JWT_ACCOUNT_ACTIVATE" : "accountactivatekey123",
+    "JWT_ACCOUNT_ACTIVATE_EXPIRE_TIME" :"1",
+    "ACCESS_TOKEN_SECRET": "!ACCESS^TOKEN*SECRET",
+    "refreshTokenSecret": "some-secret-refresh-token-shit",
+    "port": 3000,
+    "tokenLife": 1000,
+    "REFRESH_TOKE_LIFE" :86400
+}
