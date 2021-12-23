@@ -24,8 +24,8 @@ const register = (req, res) => {
   let transporter = nodemailer.createTransport({
     service: "gmail",
     auth: {
-      user: "mrbuilder0@gmail.com",
-      pass: "Pakistan1947",
+      user: "Enter Email Here",
+      pass: "Enter Password Here",
     },
   });
 
